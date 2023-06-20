@@ -15,7 +15,7 @@ body {
 
 }
 .main{
-  background-color: white;
+  background-color: rgb(207, 207, 207);
   border: 1px solid white;
   box-shadow: 5px 5px 10px;
   border-radius: 4px;
@@ -55,6 +55,7 @@ body {
   margin-right: 10px;
 }
 .head-nav{
+  width: 70%;
   margin-bottom: 0.8vw;
   border-top: 2px solid #FFD700;
   padding-top: 0.9vw;
@@ -206,22 +207,6 @@ footer{
   height: 100%;  
 }
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-/* CSS */
 .button-30 {
   align-items: center;
   appearance: none;
@@ -266,4 +251,3 @@ footer{
   box-shadow: #D6D6E7 0 3px 7px inset;
   transform: translateY(2px);
 }
-
